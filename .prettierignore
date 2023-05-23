@@ -1,0 +1,6 @@
+build
+dist
+src/shared/api/generated-admin
+src/shared/api/generated-student
+src/shared/api/openapi-admin.json
+src/shared/api/openapi-student.json
